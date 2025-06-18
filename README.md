@@ -2,8 +2,6 @@
 
 A custom object detection project using **Conditional DETR (DEtection TRansformer)** to detect flying drones from aerial video frames. This implementation fine-tunes Microsoft's [conditional-detr-resnet-50](https://huggingface.co/microsoft/conditional-detr-resnet-50) on a custom YOLO-style drone dataset.
 
-![DETR Architecture](https://github.com/facebookresearch/detectron2/blob/main/demo/output/DETR_architecture.png?raw=true)
-
 ---
 
 ## 🔍 Overview
